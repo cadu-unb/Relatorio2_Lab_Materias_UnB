@@ -3,9 +3,9 @@ Este repositório contém os dados e o relatório 2
 
 ## Problemas atuais:
 
-1. Grágico -- tópico "Resultados Experimentais";
+1. Grágico -> tópico "Resultados Experimentais";
 
-2. Equações -- tópico "Resultados Experimentais";
+2. Equações -> tópico "Resultados Experimentais";
 
 ## Instruções Gerais:
 
@@ -18,3 +18,12 @@ Este repositório contém os dados e o relatório 2
 * Para "plotar" os gráficos será utilizada a biblioteca MatPlotLib do Python3.
 
 * Em caso de dúvidas sobre sintaxe, forma e afins o Gemini ou o GPT saberão explicar melhor que eu.
+
+## Como rodar LaTex pelo VSCODE? - Windowns 10-11:
+
+1. Baixe/instale o VSCODE - \href{[link]()};
+2. Baixe/instale o Git - \href{[link](https://git-scm.com/downloads)};
+3. Baixe/instale Miktech - \href{[link](https://miktex.org/download)};
+4. Baixe/instale Strawberry Perl - \href{[link](https://strawberryperl.com/)}
+
+
