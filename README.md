@@ -21,9 +21,9 @@ Este repositório contém os dados e o relatório 2
 
 ## Como rodar LaTex pelo VSCODE? - Windowns 10-11:
 
-1. Baixe/instale o VSCODE - \href{[link]()};
-2. Baixe/instale o Git - \href{[link](https://git-scm.com/downloads)};
-3. Baixe/instale Miktech - \href{[link](https://miktex.org/download)};
-4. Baixe/instale Strawberry Perl - \href{[link](https://strawberryperl.com/)}
+1. Baixe/instale o VSCODE - {[link](https://code.visualstudio.com/download)};
+2. Baixe/instale o Git - {[link](https://git-scm.com/downloads)};
+3. Baixe/instale Miktech - {[link](https://miktex.org/download)};
+4. Baixe/instale Strawberry Perl - {[link](https://strawberryperl.com/)}
 
 
