@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1759760745.67369 "c:/Users/anton/OneDrive/Documentos/GitHub/Relatorio2_Lab_Materias_UnB/r2.tex" "r2.pdf" "r2" 1759760747.00254 0
+["pdflatex"] 1759779156.86329 "c:/Users/anton/OneDrive/Documentos/GitHub/Relatorio2_Lab_Materias_UnB/r2.tex" "r2.pdf" "r2" 1759779157.82552 0
   "C:/Program Files/MiKTeX/fonts/enc/dvips/base/8r.enc" 1458473887 4993 80dc9bab7f31fb78a000ccfed0e27cab ""
   "C:/Program Files/MiKTeX/fonts/tfm/adobe/times/ptmb7t.tfm" 1136783054 2172 fd0c924230362ff848a33632ed45dc23 ""
   "C:/Program Files/MiKTeX/fonts/tfm/adobe/times/ptmb8r.tfm" 1136783054 4524 6bce29db5bc272ba5f332261583fee9c ""
@@ -77,10 +77,10 @@
   "C:/Users/anton/AppData/Local/Programs/MiKTeX/tex/latex/psnfss/ts1ptm.fd" 1585253778 653 96f56dc5d1ef1fe1121f1cfeec70ee0c ""
   "C:/Users/anton/AppData/Local/Programs/MiKTeX/tex/latex/titlesec/titlesec.sty" 1736608268 48766 87a17a4ef312a39cd43896e34a679a56 ""
   "Imagem1.png" 1759748408 221498 b82dc7453accc17a3c56a185d6b9d4c8 ""
-  "c:/Users/anton/OneDrive/Documentos/GitHub/Relatorio2_Lab_Materias_UnB/r2.tex" 1759760744 12476 f47a5c290ba8cf5f65d2736655a4f876 ""
-  "efeito_fotoeletrico_regressao.pdf" 1759760729 22382 bb031c4591ea94d3968eae61f815bdb2 ""
-  "r2.aux" 1759760746 1637 6fbe9f5f69745c91bd3981321e101f69 "pdflatex"
-  "r2.tex" 1759760744 12476 f47a5c290ba8cf5f65d2736655a4f876 ""
+  "c:/Users/anton/OneDrive/Documentos/GitHub/Relatorio2_Lab_Materias_UnB/r2.tex" 1759779003 12476 0ff39be609f025904f4d97c7dbc45dba ""
+  "efeito_fotoeletrico_regressao.pdf" 1759779155 22382 8d0a0c0832a3de7cf2c516f0b98cb3a0 ""
+  "r2.aux" 1759779157 1637 6fbe9f5f69745c91bd3981321e101f69 "pdflatex"
+  "r2.tex" 1759779003 12476 0ff39be609f025904f4d97c7dbc45dba ""
   (generated)
   "r2.aux"
   "r2.log"
