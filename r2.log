@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.7.1)  6 OCT 2025 22:44
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.7.1)  6 OCT 2025 23:12
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -321,9 +321,6 @@ File: l3backend-pdftex.def 2025-06-09 L3 backend support: PDF output (pdfTeX)
 
 LaTeX Warning: Label `tab:medicoes_tensao' multiply defined.
 
-
-LaTeX Warning: Label `fig:label' multiply defined.
-
 )
 \openout1 = `r2.aux'.
 
@@ -395,46 +392,31 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 48
  (C:\Users\Cadu\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
-Underfull \hbox (badness 1067) in paragraph at lines 72--73
-  \OT1/ptm/m/n/10 Os ob-je-tivos s[]ao: es-tudo do efeito fo-toel[]etrico,
- []
-
-
-Underfull \hbox (badness 1975) in paragraph at lines 72--73
-\OT1/ptm/m/n/10 determina[][]ao da con-stante de Planck, determina[][]ao da
- []
-
-LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 79.
-(C:\Users\Cadu\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ts1ptm.fd
+LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 81.
+ (C:\Users\Cadu\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ts1ptm.fd
 File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
 )
 <Imagem1.png, id=1, 426.84468pt x 282.30469pt>
 File: Imagem1.png Graphic file (type png)
 <use Imagem1.png>
-Package pdftex.def Info: Imagem1.png  used on input line 98.
+Package pdftex.def Info: Imagem1.png  used on input line 101.
 (pdftex.def)             Requested size: 199.16928pt x 131.72691pt.
 
 
-LaTeX Font Info:    Trying to load font information for U+msa on input line 110.
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+
+LaTeX Font Info:    Trying to load font information for U+msa on input line 115.
 (C:\Users\Cadu\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 110.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 115.
  (C:\Users\Cadu\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-Underfull \hbox (badness 1019) in paragraph at lines 122--123
-\OT1/ptm/m/n/10 se no bot[]ao "0" man-tendo o bot[]ao de descarga da fo-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 125--125
-[]\OT1/ptm/m/n/10 Movimente o trilho para se-le-cionar a faixa
- []
-
-
-Underfull \hbox (badness 3219) in paragraph at lines 130--132
-[]  \OT1/ptm/m/n/10 Du-rante todo o pro-cesso deve-se lem-brar das
+Underfull \hbox (badness 10000) in paragraph at lines 133--134
+[]\OT1/ptm/m/n/10 Movimentar o trilho para se-le-cionar a faixa
  []
 
 
@@ -446,20 +428,38 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
  <./Imagem1.png>]
+Underfull \hbox (badness 1960) in paragraph at lines 188--189
+\OT1/ptm/m/n/10 radia[][]ao eletro-magn[]etica no v[]acuo, e $\OML/cmm/m/it/10 d$ \OT1/ptm/m/n/10 cor-re-sponde []a
+ []
+
 <efeito_fotoeletrico_regressao.pdf, id=14, 722.7pt x 433.62pt>
 File: efeito_fotoeletrico_regressao.pdf Graphic file (type pdf)
 <use efeito_fotoeletrico_regressao.pdf>
-Package pdftex.def Info: efeito_fotoeletrico_regressao.pdf  used on input line 226.
+Package pdftex.def Info: efeito_fotoeletrico_regressao.pdf  used on input line 234.
 (pdftex.def)             Requested size: 241.84842pt x 145.10646pt.
-
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 
 
 
+Underfull \hbox (badness 1354) in paragraph at lines 255--256
+[]  \OT1/ptm/m/n/10 Con-siderando a ex-press[]ao $\OML/cmm/m/it/10 K[] \OT1/cmr/m/n/10 = \OML/cmm/m/it/10 h v \OMS/cmsy/m/n/10 ^^@ \OT1/cmr/m/n/10 ^^H $\OT1/ptm/m/n/10 ,
+ []
+
+
 
 [2 <./efeito_fotoeletrico_regressao.pdf>]
+Underfull \hbox (badness 2644) in paragraph at lines 288--289
+[]  \OT1/ptm/m/n/10 Ao com-parar esse valor te[]orico com o re-sul-
+ []
+
+
+Underfull \hbox (badness 1418) in paragraph at lines 294--295
+[]  \OT1/ptm/m/n/10 A fun[][]ao tra-balho rep-re-senta a en-er-gia m[]^^Pnima
+ []
+
+
 
 
 
@@ -474,15 +474,15 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 5692 strings out of 468220
- 89078 string characters out of 5433355
- 528457 words of memory out of 5000000
- 34139 multiletter control sequences out of 15000+600000
+ 5695 strings out of 468220
+ 89110 string characters out of 5433355
+ 529506 words of memory out of 5000000
+ 34142 multiletter control sequences out of 15000+600000
  640935 words of font info for 65 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 57i,10n,65p,646b,299s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 57i,10n,65p,510b,302s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/Cadu/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/Cadu/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/Cadu/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Users/Cadu/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/Cadu/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/Cadu/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/Cadu/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/Users/Cadu/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmb8a.pfb><C:/Users/Cadu/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmr8a.pfb><C:/Users/Cadu/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmri8a.pfb>
-Output written on r2.pdf (3 pages, 348209 bytes).
+Output written on r2.pdf (3 pages, 350905 bytes).
 PDF statistics:
  130 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
