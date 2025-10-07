@@ -1,0 +1,17 @@
+--- Resultados da Regressão Linear para o Efeito Fotoelétrico ---
+Equação da Reta (V₀ vs ν): V₀ = 1.1218e-15 * ν + -0.2979 
+--------------------------------------------------       
+
+[Parâmetros da Regressão]
+Declive (a): 1.12178971e-15 V·s
+Interceção (b): -0.29793812 V
+Coeficiente de Correlação (R): 0.95358847
+
+[Valores Físicos Experimentais Encontrados]
+1. Constante de Planck (h): 1.79486354e-34 J·s
+   (Teórico: 6.62600000e-34 J·s | Diferença: 72.91%)     
+2. Função Trabalho (Φ): 4.76700997e-20 J
+   Função Trabalho (Φ): 0.29793812 eV
+   (Valor em eV é mais 'geral' e mais fácil de comparar.)
+
+--- FIM DOS CÁLCULOS ---
