@@ -1,4 +1,4 @@
---- Resultados da Regressão Linear para o Efeito Fotoelétrico ---
+---- Resultados da Regressão Linear para o Efeito Fotoelétrico ---
 Equação da Reta (V₀ vs ν): V₀ = 1.1218e-15 * ν + -0.2979 
 --------------------------------------------------       
 
