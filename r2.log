@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.7.1)  9 OCT 2025 07:32
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.7.1)  9 OCT 2025 07:40
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -317,11 +317,7 @@ File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
 ) (C:\Users\Cadu\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
 File: l3backend-pdftex.def 2025-06-09 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count316
-) (r2.aux
-
-LaTeX Warning: Label `tab:medicoes_tensao' multiply defined.
-
-)
+) (r2.aux)
 \openout1 = `r2.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 48.
@@ -443,22 +439,19 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 
 
 
-Underfull \hbox (badness 3460) in paragraph at lines 250--251
+Underfull \hbox (badness 3460) in paragraph at lines 247--248
 []  \OT1/ptm/m/n/10 Sub-sti-tuindo os par[]ametro definidos du-rante a
  []
 
 
-Underfull \vbox (badness 2237) has occurred while \output is active []
-
-
-
-[2 <./efeito_fotoeletrico_regressao.pdf>]
-Underfull \hbox (badness 2644) in paragraph at lines 305--306
+Underfull \hbox (badness 2644) in paragraph at lines 302--303
 []  \OT1/ptm/m/n/10 Ao com-parar esse valor te[]orico com o re-sul-
  []
 
 
-Underfull \hbox (badness 1418) in paragraph at lines 311--312
+
+[2 <./efeito_fotoeletrico_regressao.pdf>]
+Underfull \hbox (badness 1418) in paragraph at lines 308--309
 []  \OT1/ptm/m/n/10 A fun[][]ao tra-balho rep-re-senta a en-er-gia m[]^^Pnima
  []
 
@@ -471,21 +464,17 @@ Underfull \hbox (badness 1418) in paragraph at lines 311--312
 LaTeX2e <2025-06-01> patch level 1
 L3 programming layer <2025-06-09>
  ***********
-
-
-LaTeX Warning: There were multiply-defined labels.
-
  ) 
 Here is how much of TeX's memory you used:
- 5699 strings out of 468220
- 89210 string characters out of 5433355
- 531599 words of memory out of 5000000
- 34146 multiletter control sequences out of 15000+600000
- 640935 words of font info for 65 fonts, out of 8000000 for 9000
+ 5697 strings out of 468220
+ 89201 string characters out of 5433355
+ 532605 words of memory out of 5000000
+ 34145 multiletter control sequences out of 15000+600000
+ 639350 words of font info for 63 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 57i,10n,65p,510b,307s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 57i,10n,65p,510b,302s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/Cadu/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/Cadu/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/Cadu/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Users/Cadu/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/Cadu/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/Cadu/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/Cadu/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/Users/Cadu/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmb8a.pfb><C:/Users/Cadu/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmr8a.pfb><C:/Users/Cadu/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmri8a.pfb>
-Output written on r2.pdf (3 pages, 350005 bytes).
+Output written on r2.pdf (3 pages, 349445 bytes).
 PDF statistics:
  130 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
