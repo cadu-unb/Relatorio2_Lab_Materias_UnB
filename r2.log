@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.7.1)  9 OCT 2025 07:40
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.7.1)  9 OCT 2025 20:50
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -428,29 +428,26 @@ Underfull \hbox (badness 1960) in paragraph at lines 188--189
 \OT1/ptm/m/n/10 radia[][]ao eletro-magn[]etica no v[]acuo, e $\OML/cmm/m/it/10 d$ \OT1/ptm/m/n/10 cor-re-sponde []a
  []
 
+
+
 <efeito_fotoeletrico_regressao.pdf, id=14, 722.7pt x 433.62pt>
 File: efeito_fotoeletrico_regressao.pdf Graphic file (type pdf)
 <use efeito_fotoeletrico_regressao.pdf>
 Package pdftex.def Info: efeito_fotoeletrico_regressao.pdf  used on input line 234.
 (pdftex.def)             Requested size: 241.84842pt x 145.10646pt.
 
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-
-
-
 Underfull \hbox (badness 3460) in paragraph at lines 247--248
 []  \OT1/ptm/m/n/10 Sub-sti-tuindo os par[]ametro definidos du-rante a
  []
 
 
+
+[2 <./efeito_fotoeletrico_regressao.pdf>]
 Underfull \hbox (badness 2644) in paragraph at lines 302--303
 []  \OT1/ptm/m/n/10 Ao com-parar esse valor te[]orico com o re-sul-
  []
 
 
-
-[2 <./efeito_fotoeletrico_regressao.pdf>]
 Underfull \hbox (badness 1418) in paragraph at lines 308--309
 []  \OT1/ptm/m/n/10 A fun[][]ao tra-balho rep-re-senta a en-er-gia m[]^^Pnima
  []
@@ -468,13 +465,13 @@ L3 programming layer <2025-06-09>
 Here is how much of TeX's memory you used:
  5697 strings out of 468220
  89201 string characters out of 5433355
- 532605 words of memory out of 5000000
+ 531605 words of memory out of 5000000
  34145 multiletter control sequences out of 15000+600000
  639350 words of font info for 63 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  57i,10n,65p,510b,302s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/Cadu/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/Cadu/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/Cadu/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Users/Cadu/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/Cadu/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/Cadu/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/Cadu/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/Users/Cadu/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmb8a.pfb><C:/Users/Cadu/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmr8a.pfb><C:/Users/Cadu/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmri8a.pfb>
-Output written on r2.pdf (3 pages, 349445 bytes).
+Output written on r2.pdf (3 pages, 349835 bytes).
 PDF statistics:
  130 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
